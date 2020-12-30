@@ -4,13 +4,10 @@ title: About me
 #subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Pham Trong Dong. I have the following qualities:
+I'm Dong Pham, a software engineer. Currentlty, I'm AI engineer in VAAK Inc, develop computer vision, video analysis applications such as human pose estimation, object detection & tracking, face recognition using deep learning algorithms. Previously, I graduated Master at Soongsil Uninversity, Korea, where I learned and researched image processing algorithm based deep learning techniques.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I got two third prizes in Vietnam Physics Olympiad for high school students in 2010. Then I started to study Electric and Telecommunications at Hanoi University of Science and Technology.
 
-What else do you need?
+Most of my technical work is on [GitHub](https://github.com/DongDem)
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
