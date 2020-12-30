@@ -8,3 +8,5 @@ share-img: /assets/img/path.jpg
 tags: [mmdetection, mask-face]
 ---
 
+Today, I will write the tutorial to develop mask face detection using mmdetection. Firstly, we must collect the mask face data and lable it.  Because the mmdetection
+
