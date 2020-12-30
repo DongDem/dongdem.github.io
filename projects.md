@@ -7,16 +7,16 @@ This page introduces some of my projects.
 
 ## Custom Loss for Deep Neural Network
 
-https://github.com/DongDem/RangeLoss_MarginalLoss_Tensorflow
+[Github link](https://github.com/DongDem/RangeLoss_MarginalLoss_Tensorflow)
 
 ## Denoising using AutoEncoder
 
-https://github.com/DongDem/Denoising_AutoEncoder
+[Github link](https://github.com/DongDem/Denoising_AutoEncoder)
 
 ## Process sentiment analysis
 
-https://github.com/DongDem/PionAd
+[Github link](https://github.com/DongDem/PionAd)
 
 ## Lidar drone projcts
 
-https://github.com/DongDem/LIDAR_DRONE_DONGPHAM
+[Github link](https://github.com/DongDem/LIDAR_DRONE_DONGPHAM)
