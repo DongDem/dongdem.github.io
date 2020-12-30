@@ -15,10 +15,10 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://dongphamht92.com"
+  Projects: "projects"
+  Certificates:
+    - Machine Learning: "https://www.coursera.org/account/accomplishments/verify/TZZCRZ3KKAMY"
+    - Deep Learning: "https://www.coursera.org/account/accomplishments/verify/7MSMDCP6TQFE"
 
 # --- Logo --- #
 
