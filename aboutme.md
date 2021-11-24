@@ -9,6 +9,7 @@ I'm Dong Pham, a software engineer. Currentlty, I'm AI engineer in VAAK Inc, dev
 I got two third prizes in Vietnam Physics Olympiad for high school students in 2010. Then I started to study Electric and Telecommunications at Hanoi University of Science and Technology.
 
 Most of my technical work is on [GitHub](https://github.com/DongDem)
+
 My CV is available in [link]()
 
 
