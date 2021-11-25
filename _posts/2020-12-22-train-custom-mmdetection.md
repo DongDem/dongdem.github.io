@@ -15,9 +15,11 @@ Today, I will write the tutorial to develop mask face detection using mmdetectio
 - We use labelImg (https://github.com/tzutalin/labelImg) to annotate.
   - Set `class name` is `mask` and `no mask`
   - We will get the xml file corresponding 
+  
 ## Install mmdetection
 - Firstly, we will install conda to handle environment for project (https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
 - We can follow this post to install mmdetection (https://github.com/open-mmlab/mmdetection/blob/master/docs/get_started.md)
+
 ## Training and visualizing
 
 
