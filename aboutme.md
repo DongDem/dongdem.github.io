@@ -11,5 +11,5 @@ I got two third prizes in Vietnam Physics Olympiad for high school students in 2
 Most of my technical work is on [GitHub](https://github.com/DongDem)
 
 My CV is available in [link](https://drive.google.com/file/d/1XI6j4yw52F_aVxDRQbR6WEpZF3vI-BJn/view)
-
+My resume is available in [link](https://drive.google.com/file/d/1WRuW8Dj6BAPWC5IfAQXyV-5Au4PZ2dX_/view)
 
